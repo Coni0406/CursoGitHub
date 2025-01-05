@@ -1,0 +1,8 @@
+# Propietarios para archivos JavaScript
+*.js        @usuario1
+
+# Propietarios para el directorio src
+/src/       @usuario2 @equipo-backend
+
+# Propietarios generales
+*           @admin
