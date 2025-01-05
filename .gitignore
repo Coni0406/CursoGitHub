@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignorar configuraciones locales
+.env
+config.json
+
+# Ignorar logs
+*.log
+
+# Ignorar archivos generados por IDEs
+.vscode/
+.idea/
